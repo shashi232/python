@@ -10,7 +10,6 @@ This repository contains Python scripts for automating various communication tas
 - 📱 WhatsApp message scheduling
 - ✉️ Email sending functionality
 - 📞 Phone number parsing and validation
-- (Coming soon) Instagram messaging
 - (Coming soon) Text-to-speech capabilities
 
 ## Getting Started
@@ -103,7 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Roadmap
 
-- [ ] Add Instagram messaging functionality
 - [ ] Implement text-to-speech capabilities
 - [ ] Add error handling and logging
 - [ ] Create GUI interface for non-technical users
@@ -112,3 +110,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For questions or issues, please open an issue in the repository.
+

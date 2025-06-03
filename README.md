@@ -41,9 +41,6 @@ I commit to adding new content every day, even if it's just a small concept or c
 
 ## 🔗 Resources
 Here are some resources I'm using:
-- [Python Official Documentation](https://docs.python.org/3/)
-- [Real Python Tutorials](https://realpython.com)
-- [Python Crash Course Book]()
 - [Corey Schafer's YouTube Channel](https://www.youtube.com/user/schafer5)
 - [Hash13 Python Course](https://learning.hash13.com/courses/2665270/lectures/57935374)
 

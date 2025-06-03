@@ -1,5 +1,3 @@
-Here's an updated version of your README.md with the Hash13 learning resource included:
-
 # Daily Python Learning Journal
 
 ## 📌 Overview
